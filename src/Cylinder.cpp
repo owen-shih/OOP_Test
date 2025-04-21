@@ -8,7 +8,7 @@ double Cylinder :: SurfaceArea(){
     double ans=((pi*2.0*radius*radius)+(pi*2.0*radius*height));
     return ans;
 }
-
+//fuck
 double Cylinder :: Volume(){
      double ans=(pi*radius*radius*height*1.0);
     return ans;
@@ -32,3 +32,4 @@ ostream & operator<<(ostream & out, Cylinder & cldr)
 }
 
 # endif
+//hi
